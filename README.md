@@ -11,7 +11,7 @@ If you have any issues, please create issues in [aws-samples/aws-alexa-workshop]
 
 ## Notes
 
-There are some info missed in this sample especially for newbie like me. Here are the info:
+There are some info missed in this example especially for a newbie like me. Here are the info:
   1. Create a policy like the follow which is a working version for testing. You might limit `*` to the actual access right according to the build logs.
   ```json
   {
